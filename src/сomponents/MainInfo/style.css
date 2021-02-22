@@ -1,0 +1,14 @@
+.planet-card {
+    max-width: 50%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: #000 !important;
+}
+
+.planet-card img {
+    max-width: 30%;
+    height: 250px;
+    margin: 0 auto;
+    object-fit: cover;
+}

@@ -1,0 +1,5 @@
+@font-face {
+	font-family: 'Starjedi';
+	src: url('./Starjedi.eot');
+	src: local('Starjedi'), url('./Starjedi.woff') format('woff'), url('./Starjedi.ttf') format('truetype');
+}

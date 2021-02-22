@@ -1,0 +1,12 @@
+.peoples {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.peoples form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+}

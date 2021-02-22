@@ -1,0 +1,18 @@
+.sub-info-block {
+    width: 50%;
+    margin: 25px auto;
+}
+
+.sub-info-block .image-block {
+    margin: 0 auto;
+}
+
+.sub-info-block .image-block img {
+    width: 100%;
+}
+
+.sub-info-block .sub-info-text-block {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

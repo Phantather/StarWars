@@ -1,0 +1,28 @@
+.App {
+    background-image: url("../../images/2413558.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    font-family: 'Star Jedi', sans-serif;
+    min-height: 100vh;
+}
+
+.search-button {
+    font-family: 'Star Jedi', sans-serif;
+    background-color: #FFDE06;
+    color: #000;
+    border-radius: 5px;
+    border: 0;
+    height: 42px;
+    margin: 20px 0 20px 10px;
+}
+
+.search-button:hover {
+    font-family: 'Star Jedi', sans-serif;
+    background-color: #FFDE06;
+    color: #000;
+    border-radius: 5px ;
+    border: 0;
+    height: 42px;
+    margin: 20px 0 20px 10px;
+}
