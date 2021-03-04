@@ -1,5 +1,11 @@
 @font-face {
-	font-family: 'Starjedi';
-	src: url('./Starjedi.eot');
-	src: local('Starjedi'), url('./Starjedi.woff') format('woff'), url('./Starjedi.ttf') format('truetype');
+    font-family: "Star Jedi";
+    src: url("./StarJedi.eot"); /* IE9*/
+    src: url("./StarJedi.eot?#iefix") format("embedded-opentype"),
+		/* IE6-IE8 */
+	url("./StarJedi.woff2") format("woff2"),
+		/* chrome firefox */
+	url("./StarJedi.woff") format("woff"),
+		/* chrome firefox */
+	url("./StarJedi.ttf") format("truetype")
 }

@@ -15,7 +15,7 @@ function App() {
 
     // функция получения данных
     const getData = (url) => {
-        return axios.get(url)
+        return axios.get(url.replace('http:', 'httpss:'))
     }
 
     return (
